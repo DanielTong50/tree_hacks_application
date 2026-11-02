@@ -11,7 +11,7 @@ const pixel = Press_Start_2P({
 });
 
 const title = `${SITE.cartridge} — ${SITE.name}`;
-const description = `A handheld console you can actually play. Climb the tree, reach the top, and find out why it exists. An application to ${SITE.event} ${SITE.year}.`;
+const description = `My ${SITE.event} ${SITE.year} application, as a handheld console you can actually play. Climb the tree; the rest of the application is at the top.`;
 
 export const metadata: Metadata = {
   title,
